@@ -1,0 +1,42 @@
+    {
+      "id": "pixel_10_pro_xl",
+      "brandLabel": "Google",
+      "modelLabel": "Pixel 10 Pro XL",
+      "summary": "Tensor G5 - Android 16",
+      "profile": {
+        "bootloader": "mustang-1.0-13450100",
+        "baseband": "g5500a-260218-B-13400050",
+        "brand": "google",
+        "manufacturer": "Google",
+        "model": "Pixel 10 Pro XL",
+        "productName": "mustang",
+        "deviceCode": "mustang",
+        "board": "mustang",
+        "hardware": "mustang",
+        "boardPlatform": "ripcurrent",
+        "buildFingerprint": "google/mustang/mustang:16/AP4A.250405.001/13500000:user/release-keys",
+        "buildId": "AP4A.250405.001",
+        "buildDisplayId": "AP4A.250405.001",
+        "buildIncremental": "13500000",
+        "buildRelease": "16",
+        "buildSdk": 34,
+        "securityPatch": "2025-04-05",
+        "buildDescription": "mustang-user 16 AP4A.250405.001 13500000 release-keys",
+        "buildFlavor": "mustang-user",
+        "buildProduct": "mustang",
+        "buildCharacteristics": "nosdcard",
+        "screenWidth": 1080,
+        "screenHeight": 2424,
+        "screenDensity": 422,
+        "operatorAlpha": "T-Mobile",
+        "operatorNumeric": "310260",
+        "simOperatorAlpha": "T-Mobile",
+        "simOperatorNumeric": "310260",
+        "simCountryIso": "us",
+        "timezone": "America/Los_Angeles",
+        "socModel": "Google Tensor G5",
+        "socManufacturer": "Google"
+      }
+    }
+    
+   
