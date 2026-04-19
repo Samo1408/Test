@@ -1,12 +1,12 @@
-# SpoofMyDevice Devices
+# Pixel Devices
 
-Community-maintained device preset files for `SpoofMyDevice`.
+Community-maintained device preset files for `Pixel Devices`.
 
 Each preset lives in the repository root as a single JSON file such as:
 
 - `Google Pixel 8 Pro.json`
-- `Samsung Galaxy S25 Ultra.json`
-- `Samsung SM-X900.json`
+- `Google Pixel 10 Pro.json`
+- `Google Pixel 9 Pro.json`
 
 ## Format
 
