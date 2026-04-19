@@ -28,12 +28,12 @@
         "screenWidth": 1344,
         "screenHeight": 2992,
         "screenDensity": 489,
-        "operatorAlpha": "T-Mobile",
-        "operatorNumeric": "310260",
-        "simOperatorAlpha": "T-Mobile",
-        "simOperatorNumeric": "310260",
-        "simCountryIso": "us",
-        "timezone": "America/Los_Angeles",
+        "operatorAlpha": "",
+        "operatorNumeric": "",
+        "simOperatorAlpha": "",
+        "simOperatorNumeric": "",
+        "simCountryIso": "",
+        "timezone": "",
         "socModel": "Google Tensor G4",
         "socManufacturer": "Google"
       }
